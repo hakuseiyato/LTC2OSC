@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+build/
+dist/
+*.spec.bak
+
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Unity meta（誤って混入した場合）
+*.meta
+
+# 設定の個人差分
+config_local.py
+*.local.ini
